@@ -3,10 +3,10 @@ import React from "react";
 function ToyCard() {
   return (
     <div className="card" data-testid="toy-card">
-      <h2>{"" /* Toy's Name */}</h2>
+      <h2>{"visions of you"}</h2>
       <img
-        src={"" /* Toy's Image */}
-        alt={"" /* Toy's Name */}
+        src={"#"}
+        alt={"im here"}
         className="toy-avatar"
       />
       <p>{"" /* Toy's Likes */} Likes </p>
